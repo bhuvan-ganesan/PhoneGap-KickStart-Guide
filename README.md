@@ -53,7 +53,7 @@ if you have username password set
 
 16) start the emulator
 
-17) To run Android App 
+17) To run Android/IOS App 
 
 <code>cordova run android</code>
 
@@ -61,7 +61,7 @@ Voila, Now your first application is developed.
 
 Open www folder in your favourite editor and start working around the index.html page to have fun for start.
 
-== Tips and Tricks ==
+ '''Tips and Tricks''' 
 
 
 
