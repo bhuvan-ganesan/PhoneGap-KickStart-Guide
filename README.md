@@ -40,22 +40,30 @@ if you have username password set
 
 12) now create first app
 
-cordova create MyFirstPhoneGap com.myapp.helloworld Hello
+<code>cordova create MyFirstPhoneGap com.myapp.helloworld Hello</code>
 
-13) Traverse to project folder
+13) Traverse to project folder EX: <code>cd Hello</code>
 
-14) set Environment 
-cordova platform add android
+14) set Environment for Android/IOS
 
-15) cordova build android
+<code>cordova platform add android</code>
+
+15) To build phonegap app with Android/IOS 
+<code>cordova build android</code>
 
 16) start the emulator
 
-17) cordova run android
+17) To run Android App 
+
+<code>cordova run android</code>
 
 Voila, Now your first application is developed.
 
 Open www folder in your favourite editor and start working around the index.html page to have fun for start.
+
+== Tips and Tricks ==
+
+
 
 Your comments will encourage us to do more these kind of tutorials.
 
