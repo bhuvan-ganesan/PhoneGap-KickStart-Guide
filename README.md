@@ -25,11 +25,10 @@ if you have username password set
 4) install <code>cordova - npm install -g cordova</code>
 
 5) install ant - 
-<code>Download the .zip for the binaries from http://ant.apache.org/bindownload.cgi.
 
-Extract the binaries on the path C:java\ant\ where [java] and [ant] would be self created folders you can store in any directory structure of your preference.
-
-Set up Environment variables with the names JAVA_HOME & ANT_HOME</code>
+<i>Download the .zip for the binaries from http://ant.apache.org/bindownload.cgi.</i>
+<i>Extract the binaries on the path C:java\ant\ where [java] and [ant] would be self created folders you can store in any directory structure of your preference.</i>
+<i>Set up Environment variables with the names JAVA_HOME & ANT_HOME</i>
 
 6) set path variable for ant
 
