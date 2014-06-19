@@ -1,7 +1,7 @@
 PhoneGap-KickStart-Guide
 ========================
 
-Phonegap installation steps 
+<b><u>Phonegap installation steps</u></b> 
 
 1) install node.js - http://nodejs.org/dist/v0.10.28/node-v0.10.28-x86.msi
 
