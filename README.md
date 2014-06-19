@@ -5,7 +5,7 @@ PhoneGap-KickStart-Guide
 
 1) install node.js - http://nodejs.org/dist/v0.10.28/node-v0.10.28-x86.msi
 
-2) install phonegap - npm install -g phonegap (If throwing error check if you are behind proxy)
+2) install phonegap - <code>npm install -g phonegap</code> (If throwing error check if you are behind proxy)
 
 3) set Proxy with the following command - 
 
