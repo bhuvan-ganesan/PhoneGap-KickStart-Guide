@@ -25,6 +25,11 @@ if you have username password set
 4) install <code>cordova - npm install -g cordova</code>
 
 5) install ant - 
+<code>Download the .zip for the binaries from http://ant.apache.org/bindownload.cgi.
+
+Extract the binaries on the path C:java\ant\ where [java] and [ant] would be self created folders you can store in any directory structure of your preference.
+
+Set up Environment variables with the names JAVA_HOME & ANT_HOME</code>
 
 6) set path variable for ant
 
@@ -62,6 +67,7 @@ Voila, Now your first application is developed.
 Open www folder in your favourite editor and start working around the index.html page to have fun for start.
 
  <b>Tips and Tricks</b>
+ 
   # Try Using http://brackets.io/ as HTML Editor
 
 
