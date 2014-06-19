@@ -9,17 +9,20 @@ Phonegap installation steps
 
 3) set Proxy with the following command - 
 
-npm config set proxy http://proxy.company.com:8080
-npm config set https-proxy http://proxy.company.com:8080
+<code>npm config set proxy http://proxy.company.com:8080</code>
+
+<code>npm config set https-proxy http://proxy.company.com:8080</code>
 
 &
 
 if you have username password set
-npm config set proxy http://login:pass@host:port
-npm config set https-proxy http://login:pass@host:port
+
+<code>npm config set proxy http://login:pass@host:port</code>
+
+<code>npm config set https-proxy http://login:pass@host:port</code>
 
 
-4) install cordova - npm install -g cordova
+4) install <code>cordova - npm install -g cordova</code>
 
 5) install ant - 
 
