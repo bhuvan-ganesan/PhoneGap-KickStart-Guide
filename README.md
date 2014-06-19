@@ -61,8 +61,8 @@ Voila, Now your first application is developed.
 
 Open www folder in your favourite editor and start working around the index.html page to have fun for start.
 
- '''Tips and Tricks''' 
-
+ <b>Tips and Tricks</b>
+  # Try Using http://brackets.io/ as HTML Editor
 
 
 Your comments will encourage us to do more these kind of tutorials.
